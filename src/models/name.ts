@@ -1,0 +1,5 @@
+export const db = "main-chatapp"
+export const userCollection = "users"
+export const chatRoomCollection = "chatRooms"
+export const messageCollection = "messages"
+export const chatAttachmentBucket = "chatAttachments"
